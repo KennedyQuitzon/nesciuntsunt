@@ -1,0 +1,17 @@
+{
+  "name": "nesciuntsunt",
+  "description": "cross platform react ui framework",
+  "version": "1.0.0",
+  "files": [
+    "packages"
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "pnpm": "^4.14.2"
+  },
+  "author": "PatriciaPfeffer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KennedyQuitzon/nesciuntsunt.git"
+  }
+}
